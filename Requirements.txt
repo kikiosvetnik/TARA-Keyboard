@@ -1,0 +1,8 @@
+
+
+Keyboard layout is ISO 104 without numerical part
+PCB shall have 1 LED for caps lock 
+PCB shall use STM32F072RBT6
+PCB shall have Power from USB C 
+PCB shall have SWD for STM32
+PCB Shall have LDO for STM32 Power
