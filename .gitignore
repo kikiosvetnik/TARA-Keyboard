@@ -1,0 +1,6 @@
+tara-keyboard/*-backups
+tara-keyboard/*.lck
+tara-keyboard/*.kicad_prl
+tara-keyboard/*fp-lib-table
+tara-keyboard/sym-lib-table
+tara-keyboard/fp-info-cache
